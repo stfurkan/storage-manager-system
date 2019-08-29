@@ -28,7 +28,7 @@ Welcome to SFTDB
 (8) Exit
 Please choose what operation you want to do above (1-8).
 
--> There is 8 different options in this menu.
+-> There are 8 different options in this menu.
 
 (1) Create a type
 --> When you enter 1, the program wants from you to enter type name, type's field count and field names respectively.
